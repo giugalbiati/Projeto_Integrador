@@ -35,6 +35,8 @@
 <details> <br>
  <p>A invisibilidade feminina no meio artístico é crítica. Comparadas à extensa lista de nomes masculinos na produção de obras no Renascimento, por exemplo, as mulheres citadas como artistas foram poucas, e geralmente foram postas como coadjuvantes em seu papel e desenvolvimento para o mundo das artes.</p>
  <p>Conforme a desigualdade de gênero, optamos por desenvolver uma plataforma, em formato de galeria online, com objetivo de proporcionar a mulheres artistas, especificamente as de minorias sociais/classes baixas, a oportunidade de vender seus produtos mundialmente com lucros justos e alta visibilidade.</p>
+ 
+ <p>Link apresentação do site: https://www.canva.com/design/DAE3y9kZlK0/BlcjlGhCJZLAR7dy1wmorw/view?utm_content=DAE3y9kZlK0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink<p>
    
  
 </details>
